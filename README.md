@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm in the process of implementing more features for my projects.
+- 🌱 I’m also currently practicing data structures and algorithms.
+- 📫 How to reach me: melodyyoo72@gmail.com
