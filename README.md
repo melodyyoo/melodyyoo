@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I'm a full stack software engineer with a Bachelor of Science in Psychological and Brain Sciences and work experience in healthcare. I was drawn to software engineering because I sought to challenge myself and refine my logical reasoning skills, which I believed were weaknesses of mine. My background has enabled me to code with a user-centric approach and be an adaptable, team player. In my journey of learning different languages and frameworks, I have overcome much self-doubt and produced full stack applications from the relationships and designs I crafted early on. I love that creativity and logic are mutually inclusive in this field! I strive to continue pushing through the discomfort of all that is unknown and instead trusting the growth that is happening on a daily basis. 
 
 - 🔭 I'm in the process of implementing more features for my projects.
-- 🌱 I’m also currently practicing data structures and algorithms.
+- 🌱 I’m currently practicing data structures and algorithms.
 - 📫 How to reach me: melodyyoo72@gmail.com
